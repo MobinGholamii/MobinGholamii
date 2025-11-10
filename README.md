@@ -43,7 +43,6 @@ I’m a medical doctor who codes—coffee + python scripts + public health = per
 | Project | Description |
 |--------|-------------|
 | ⭐ **[IDH-Mutation-DeepLearning](https://github.com/mobingholami/IDH-Mutation-DeepLearning)** | Deep learning model predicting *IDH mutation* from MRI scans (paper accepted 2025). |
-| 🧠 **[Brain-Tumor-MRI-Classifier](https://github.com/mobingholami/Brain-Tumor-MRI-Classifier)** | CNN model for brain tumor MRI classification with GradCAM explainability. |
 | 🧬 **[Mental-Health-Outcome-Prediction](https://github.com/mobingholami/Mental-Health-Outcome-Prediction)** | ML model predicting relapse/improvement in mental health services. |
 | 📊 **[Vitamin-Deficiency-Systematic-Review](https://github.com/mobingholami/Vitamin-Deficiency-Systematic-Review)** | Scripts + PRISMA pipeline for a systematic review (published 2025). |
 
